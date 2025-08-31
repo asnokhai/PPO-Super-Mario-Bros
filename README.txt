@@ -10,6 +10,6 @@ The code is fairly simple to run:
 
 For each model, copies throughout the training process are saved in 'data/saved_models/...'. The best performing model is saved under 'data/tmp/...'.
 
-5. To visualize all paths of a model throughout training, use 'training_visualizer.py'
+5. To visualize all paths of a model throughout training, use 'training_visualizer.py'. Unfortunately, Github did not allow me push a large number of zip files, so I could not push the history copies of my models. If you somehow still want to see this, send an email to A.S.nokhai@student.tudelft.nl and I will send you a WeTransfer link with the models.
 
 6. To plot data (logged in tensorboard), you can use tensorboard, or 'data_plotter.py'
