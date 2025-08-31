@@ -1,6 +1,6 @@
 The code is fairly simple to run:
 
-1. First install all packages listed in requirements.txt, make sure to install identical versions. No CUDA or GPU enabling is needed.
+1. First install all packages (correct versions!) listed in requirements.txt, alongside Python 3.8. No CUDA or GPU enabling is needed.
 
 2. To train a new model, open 'main_training.py', set the parameters to your liking and run the code
 
